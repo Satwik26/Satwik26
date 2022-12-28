@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satwik Sinha</h1>
-<h3 align="center">I am a Indie developer and practical knowledge seeker. To work in an environment where my skills and knowledge reflects the growth of the company and enhance my knowledge and my experience.</h3>
+<h3 align="center">I am a Indie developer and practical knowledge seeker. To work in an environment where my skills and knowledge reflects the growth of the company and also enhance my own knowledge and experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satwik26&label=Profile%20views&color=0e75b6&style=flat" alt="satwik26" /> </p>
 
