@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Blockchain, Machine learning, Artificial Intelligence**
 
-- 📫 How to reach me **satwiksinha18@gmai.com**
+- 📫 How to reach me **satwiksinha18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
